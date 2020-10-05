@@ -1,34 +1,24 @@
-
-header {
-    background-color: #b2b2b2;
+header{
+    background-color: #515A5A ;
 }
-
-h1 {
-    font-variant: all-petite-caps;
+h1{
+    font-variant: small-caps;
     text-align: center;
-    font-size: 60px;
-    color: #ffffff;
+    color: #FDFEFE;
 }
-
-h2 {
-    font-variant: all-petite-caps;
-    font-size: 40px;
+a{
+    color: #17202A;
+    background-color: #E5E7E9;
+}
+h2{
+    font-variant: small-caps;
     color: #000080;
 }
 
-nav {
-    text-align: center;
+section{
+    background-color: #AAB7B8;
 }
 
-a {
-    background-color: #c5c5c5;
-    color: #000000;
-}
-
-section {
-    background-color: #7f7f7f;
-}
-
-img {
+.left{
     display: none;
 }
