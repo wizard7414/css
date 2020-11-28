@@ -1,0 +1,9 @@
+@media screen and (min-width: 1281px) {
+    body {background-color: #00ff00;}
+}
+@media screen and (min-width: 641px) and (max-width: 1280px) {
+    body {background-color: #0000ff;}
+}
+@media screen and (max-width: 640px) {
+    body {background-color: #ff0000;}
+}
